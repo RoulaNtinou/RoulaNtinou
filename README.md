@@ -1,6 +1,6 @@
 # Hi I'm Sotiria 👋
 
-I’m a Junior Data Analyst with a strong foundation in Python, R, SQL, and Tableau. My work focuses on turning data into actionable insights through efficient analysis, visualization, and reporting.
+Strong foundation in Python, R, SQL, MS Excel and Tableau. My work focuses on turning data into actionable insights through efficient analysis, visualization, and reporting.
 
 💻 What I do:
 
