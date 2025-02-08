@@ -4,9 +4,11 @@ Strong foundation in Python, R, SQL, MS Excel and Tableau. My work focuses on tu
 
 💻 What I do:
 
-Data Cleaning and Analysis using Python and R
-SQL queries for data extraction and manipulation
-Creating interactive dashboards in Tableau
+* Data Analysis: Python, R, SQL, SPSS
+* Data Visualization: Tableau, Looker Studio
+* Database Management: SQL
+* Business Intelligence Tools: Excel (Advanced), PowerPoint
+
 
 🌱 What I’m learning: Advanced machine learning techniques and cloud-based data warehousing.
 
